@@ -1,0 +1,8 @@
+.boxModel{
+    width: 200px;
+    padding: 30px;
+    border: 2px solid yellowgreen;
+    margin: 36px;
+    background-color: lightgreen;
+    border-radius: 20px;
+}
